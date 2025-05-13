@@ -29,7 +29,7 @@ I'm a software engineer and smart contract developer with a focus on security an
 
 ---
 
-## 🛡️ Immunefi
+## <img src="https://res.cloudinary.com/blackadam/image/upload/v1747148417/immunefi-icon_h53jrm.png" width=32 height=22> Immunefi
 
 | Contest  | High risk | Medium risk | Low risk | Link                                                                 |
 |----------|-----------|--------------|----------|----------------------------------------------------------------------|
