@@ -18,10 +18,6 @@ I'm a software engineer and smart contract developer with a focus on security an
 
 # Oxblackadam
 
-🥇 - 1st
-🥈 - 2nd
-🥉 - 3rd
-
 |    Overall     | High risk | Medium risk | Low Risks/Insight |
 | :------------: | :-------: | :---------: | :-------: |
 | 1 High/Medium | 1 Highs  | 0 Mediums  |  5 Lows  |
