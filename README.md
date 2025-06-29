@@ -49,3 +49,18 @@ I'm a software engineer and smart contract developer with a focus on security an
 | Kinetiq       | -         | -           | 3        | -                                                                                            |
 
 ---
+
+## <img src="https://res.cloudinary.com/droqoz7lg/image/upload/v1689080263/snhkgvtsidryjdtx0pce.png" width=32 height=22> CodeHawks
+
+|          Contest                | High risk | Medium risk | Low risk | Security Report |
+| :-----------------------------: | :-------: | :---------: | :------: | :--------------: |
+|   Staking Part 2                |     1     |      -      |    1     |[Submission](https://codehawks.cyfrin.io/c/2025-04-starknet-part-2/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard)           |
+
+---
+
+## <img src="https://www.google.com/s2/favicons?sz=64&domain_url=https://cantina.xyz/" width=27 height=27> Cantina
+
+| Contest  | High risk | Medium risk | Low risk | Link |
+|----------|-----------|--------------|----------|------|
+| All contest| 1       |     4        |    6     |[Submission](https://cantina.xyz/u/0xblackadam/)     |
+
